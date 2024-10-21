@@ -112,8 +112,3 @@ currently this section is on heavy construction come back later bruh
   
 
 <br/>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
