@@ -49,6 +49,8 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="50" /></a>
 
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="Django" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask" height="50" /></a>
