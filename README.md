@@ -61,7 +61,9 @@
 ### OTHER  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.hyperledger.org/projects/fabric" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hyperledger_fabric.png/1024px-Hyperledger_fabric.png" alt="Hyperledger Fabric" height="50" /></a>
+
+<a href="https://www.hyperledger.org/projects/fabric" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:786/1*-bOphI4BeS4kP6tKw6AcmA.png" alt="Hyperledger Fabric" height="50" /></a>
+
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://assets.getpostman.com/common-share/postman-logo-horizontal-white.svg" alt="Postman" height="50" /></a>
 <a href="https://ethereum.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/2560px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="50" /></a>
 
