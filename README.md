@@ -5,20 +5,9 @@
 </div>  
   
 
-### <div align="center">I'm Arjun S, a webdeveloper / aspiring web3 developer </div>  
+### <div align="center">I'm Arjun S </div>  
   
 
-- 🔭 working at deepblue research 
-  
-
-- 🌱 I’m currently learning how to use ai to make money !!!. 
-  
-
-- ❓ Ask me about anything related to Python Django Stack and related  
-  
-
-- ⚡ Fun fact: I am trying to be soo good that one day i could be a indie hacker  
-  
 
 <br/>  
 
